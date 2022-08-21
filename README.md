@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/OsykaOleksandr/sunnyside-agency-landing-page-main)
-- Live Site URL: [Add live site URL here](https://github.com/OsykaOleksandr/sunnyside-agency-landing-page-main)
+- Solution URL: [Solution](https://github.com/OsykaOleksandr/sunnyside-agency-landing-page-main)
+- Live Site URL: [Live URL](https://osykaoleksandr.github.io/sunnyside-agency-landing-page-main/)
 
 ## My process
 
